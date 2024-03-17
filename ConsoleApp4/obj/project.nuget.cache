@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oYR1itxS9xZOYQa1q2bWRa1tE9/tA7TvHmzd2/K9+zz2J0+0d4qJrEt2usQIZH8L/EB5VEOTNMljoU15KnTq4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\methodtask\\ConsoleApp4\\ConsoleApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
